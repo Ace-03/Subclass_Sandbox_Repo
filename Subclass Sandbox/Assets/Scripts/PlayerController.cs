@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using static SubclassSandbox.Jumping;
 
-public class PlayerController : MonoBehaviour
+public class GameController : MonoBehaviour
 {
     List<Jumping> sup = new List<Jumping>();
 
